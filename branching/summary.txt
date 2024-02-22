@@ -1,2 +1,3 @@
 git branch branchname
 git checkout branchname
+git switch branchname
